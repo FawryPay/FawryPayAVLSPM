@@ -1,0 +1,4 @@
+module SDWebImage {
+    umbrella header "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImage.h"
+    export *
+}

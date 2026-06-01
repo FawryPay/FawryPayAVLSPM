@@ -1,0 +1,103 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/primary.swiftdeps"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/Any+Equatable.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Any+Equatable.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Any+Equatable.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Any+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Any+Equatable.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Any+Equatable.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/Bag.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Bag.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Bag.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Bag~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Bag.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Bag.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/ColdObservable.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/ColdObservable.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/ColdObservable.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/ColdObservable~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/ColdObservable.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/ColdObservable.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/Event+Equatable.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Event+Equatable.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Event+Equatable.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Event+Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Event+Equatable.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Event+Equatable.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/HotObservable.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/HotObservable.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/HotObservable.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/HotObservable~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/HotObservable.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/HotObservable.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/Recorded+Event.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded+Event.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded+Event.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded+Event~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded+Event.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded+Event.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/Recorded.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Recorded.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/RxTest.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/RxTest.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/RxTest.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/RxTest~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/RxTest.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/RxTest.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/Subscription.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Subscription.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Subscription.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Subscription~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Subscription.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/Subscription.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/TestScheduler.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestScheduler.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestScheduler.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestScheduler.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestScheduler.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/TestSchedulerVirtualTimeConverter.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestSchedulerVirtualTimeConverter.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestSchedulerVirtualTimeConverter.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestSchedulerVirtualTimeConverter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestSchedulerVirtualTimeConverter.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestSchedulerVirtualTimeConverter.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/TestableObservable.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObservable.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObservable.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObservable~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObservable.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObservable.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/TestableObserver.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObserver.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObserver.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObserver~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObserver.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/TestableObserver.dia"
+  },
+  "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/RxSwift/Sources/RxTest/XCTest+Rx.swift": {
+    "dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/XCTest+Rx.d",
+    "object": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/XCTest+Rx.swift.o",
+    "swiftmodule": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/XCTest+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/XCTest+Rx.swiftdeps",
+    "diagnostics": "/Users/sameh/Documents/FawryPayAVLSPM/.build/arm64-apple-macosx/debug/RxTest.build/XCTest+Rx.dia"
+  }
+}

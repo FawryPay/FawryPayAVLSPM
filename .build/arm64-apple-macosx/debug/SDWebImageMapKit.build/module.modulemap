@@ -1,0 +1,4 @@
+module SDWebImageMapKit {
+    umbrella header "/Users/sameh/Documents/FawryPayAVLSPM/.build/checkouts/SDWebImage/SDWebImageMapKit/include/SDWebImageMapKit/SDWebImageMapKit.h"
+    export *
+}
