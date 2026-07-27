@@ -9,8 +9,8 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "FawryPay_AVL_SPM",
-            targets: ["FawryPay_AVL_SPM"]
+            name: "FawryPayAVL",
+            targets: ["FawryPayAVL"]
         ),
     ],
     dependencies: [
@@ -19,17 +19,17 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "FawryPay_AVL_SPM",
+            name: "FawryPayAVL",
             dependencies: [
-                "FawryPaySDK_AVL",
+                "FawryPaySDK",
                 .product(name: "Alamofire", package: "Alamofire"),
                 .product(name: "IQKeyboardManagerSwift", package: "IQKeyboardManager"),
             ],
-            path: "Sources/FawryPaySDK_AVL"
+            path: "Sources/FawryPayAVL"
         ),
         .binaryTarget(
-            name: "FawryPaySDK_AVL",
-            path: "./Sources/FawryPaySDK_AVL.xcframework"
+            name: "FawryPaySDK",
+            path: "Sources/FawryPaySDK.xcframework"
         ),
     ]
 )
